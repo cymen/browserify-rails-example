@@ -1,0 +1,11 @@
+debug: true
+javascript:
+  application:
+    require:
+      - robot
+  beep:
+    external:
+      - robot
+  bop:
+    external:
+      - robot

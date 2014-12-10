@@ -1,0 +1,10 @@
+{
+  "name": "browserify-rails-example",
+  "version": "0.0.1",
+  "description": "== README",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^4.2.3"
+  }
+}
